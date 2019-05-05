@@ -1,12 +1,12 @@
 # Presentations
 
-## Presentations 2019
+## 2019
 
 ### Untersuchung zum Bezahlten- & Organisierten-Mapping im OSM Projekt - Zahlen und Fakten?
 2019-03-17: Talk von der FOSSGIS & OpenStreetMap Konferenz in Dresden 2019
 
 
-## Presentations 2018
+## 2018
 ### "Ich weiß was Du letzten Sommer gemappt hast!" Datenspuren im OpenStreetMap Projekt
 2018-03-23: Talk von der FOSSGIS & OpenStreetMap Konferenz in Bonn 2018
 
@@ -17,7 +17,7 @@
 2018-10-28: Vortrag (Input Session) zum Kick-Off des Kultur-Hackathon Coding da Vinci Rhein-Main mit dem Titel: "OpenStreetMap im Einsatz für #CodingDaVinci? Nutzung der Karten, Daten und Dienste"
 
 
-## Presentations 2017
+## 2017
 ### Vandalismus im OSM Projekt - Stand heute. Und morgen?
 2017-03-24: Folien von meinem Talk auf der #FOSSGIS2017 über Vandalismus im #OpenStreetMap Projekt Stand heute. Und morgen?
 
@@ -25,7 +25,7 @@
 2017-03-24: Ergebnisse meiner Mitbetreuung einer Lehrveranstaltung an der Hochschule Mainz über #OpenStreetMap & Micro Services #OpenSource - #FOSSGIS2017
 
 
-## Presentations 2013
+## 2013
 ### Crowdsourcing im Katastrophenfall - Am Beispiel OpenStreetMap
 2013-04-11: Folien des Vortrages vom 18. Münchner Fortbildungsseminar Geoinformationssysteme - Runder Tisch GIS e.V. 08. - 11. April 2013
 
@@ -36,7 +36,7 @@
 2013-11-14: Kurzeinführung in OSM Mapping mit dem iD Editor und dem HOT Tasking Manager
 
 
-## Presentations 2011
+## 2011
 ### Über Stock und Stein: Barrierefreie Routenplanung mit OpenStreetMap
 2011-02-25: Folien meines Vortrages beim LVR in Köln vom 25. Feb. 2011
 
@@ -53,7 +53,7 @@
 2011-04-05: OpenStreetMap Quiz auf der FOSSGIS 2011 in Heidelberg
 
 
-## Presentations 2010
+## 2010
 ### Rollstuhl‐Routing mit OpenStreetMap‐Daten - Am Beispiel Bonn
 2010-03-11: Short talk about OSM wheelchair-routing presented at #Fossgis10. Slides are in german.
 
