@@ -2,7 +2,7 @@
 
 ## 2019
 
-### Open Data für die Smart City Mainz? Eine erste Bestandsaufnahme
+### [Open Data für die Smart City Mainz? Eine erste Bestandsaufnahme](../blob/master/2019/20190527_SmartCity.pdf)
 2019-05-29: Fokusgruppe „Smart City“ Gutenberg Digital Hub Mainz
 
 ### [Untersuchung zum Bezahlten- & Organisierten-Mapping im OSM Projekt - Zahlen und Fakten?](../blob/master/2019/20190314_BezahltesOrganisiertesMappingOSM.pdf)
